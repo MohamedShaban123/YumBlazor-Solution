@@ -4,6 +4,5 @@
     }
     if (type == "error") {
         toastr.error(message);
-
     }
 }
